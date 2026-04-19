@@ -1,0 +1,20 @@
+# VSCode
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers temporaires
+*.tmp
+~*
+
+# Serveurs locaux (si tu en utilises)
+dist/
+build/
+node_modules/
