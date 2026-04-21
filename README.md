@@ -2,7 +2,7 @@
 
 Bienvenue sur **NEF-DIVAS**, un projet de plateforme de streaming conçu et développé par l'équipe **Web Divas**. Ce site propose une interface moderne, inspirée des meilleurs services de vidéo à la demande.
 
-## 👥 L'Équipe & Rôles
+## 👥 Équipe 
 Nous sommes un groupe de trois étudiantes passionnées :
 * **Hawa Kane** (Capitaine) 
 * **Aïssatou Barry** 
